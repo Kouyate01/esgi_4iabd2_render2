@@ -6,7 +6,7 @@ services:
     startCommand: npm start
     region: frankfurt
     plan: free
-    repo: https://github.com/ArchOrn/egsi_iabd2_2024_render_bp
+    repo: https://github.com/Kouyate01/esgi_4iabd2_render2.git
     envVars:
       - key: DATABASE_URL
         fromDatabase:
